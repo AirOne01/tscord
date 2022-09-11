@@ -95,3 +95,10 @@ type WebsocketConfigType = {
 
     enabled: boolean
 }
+
+type TwilioConfigType = {
+
+    enabled: boolean,
+    debug: boolean
+    
+}

@@ -71,6 +71,7 @@
     "stacktrace-parser": "^0.1.10",
     "swagger-ui-express": "^4.5.0",
     "tsyringe": "^4.6.0",
+    "twilio": "^3.82.0",
     "typesafe-i18n": "^5.4.3",
     "uuid": "^8.3.2"
   },
